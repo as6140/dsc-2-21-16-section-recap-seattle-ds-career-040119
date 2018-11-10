@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section XX and why they'll be important to you as a data scientist.
+This short lesson summarizes the topics we covered in section 21 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -11,5 +11,6 @@ You will be able to:
 * Understand and explain why this section will help you become a data scientist
 
 ## Key Takeaways
-
+Some of the key takeaways from this section include:
+* 
 
